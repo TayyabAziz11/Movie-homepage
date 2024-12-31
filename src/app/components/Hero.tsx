@@ -57,7 +57,7 @@ function Hero(){
             <div className="w-1/2 text-white ml-[32rem] mt-14">
                 <h1 className="text-3xl">THE LAST DANCE</h1>
                 <p className="mt-2">2024 | <span className="bg-orange-300 text-black font-semibold">13+</span> | 1h 49min | Action/Sci-fi</p>
-                <p className="mt-3">Venom:The Last Dance is a 2024 American superhero film written and directed by Kelly Marcel, which features the Marvel Comics character Venom.Eddie and Venom, on the run, face pursuit from both worlds. As circumstances tighten, they're compelled to make a heart-wrenching choice that could mark the end of their symbiotic partnerships.</p>
+                <p className="mt-3">Venom:The Last Dance is a 2024 American superhero film written and directed by Kelly Marcel, which features the Marvel Comics character Venom.Eddie and Venom, on the run, face pursuit from both worlds. As circumstances tighten, they&apos;re compelled to make a heart-wrenching choice that could mark the end of their symbiotic partnerships.</p>
 
                 <div className="mt-7 flex">
                     <div className="bg-orange-300 text-black w-28 p-2 font-bold flex items-center">
@@ -69,7 +69,7 @@ function Hero(){
                 </div>
 
                 <div className="mt-5 h-48 w-[95%] relative bg-white bg-opacity-5 backdrop-blur-sm p-8 rounded-3xl border border-white/30 shadow-xl">
-                    <h1 className="">WHAT'S NEXT?</h1>
+                    <h1 className="">WHAT&apos;S NEXT?</h1>
 
                     <div className=" flex gap-6 mt-2">
                            <div className="border-2 border-gray-600 rounded-lg w-1/2 h-28">
